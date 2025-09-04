@@ -1,5 +1,22 @@
 # FitBit-Marketing-Strategy
 This repository contains my Capstone Project for the Google Data Analytics specialization, focused on the Bellabeat Leaf wellness tracker. The project follows the six-step data analysis roadmap (Ask → Prepare → Process → Analyze → Share → Act) to uncover insights from smart wearable usage and translate them into actionable marketing strategies.
+
+# Project Overview
+
+Objective: Help Bellabeat improve customer engagement and retention by analyzing Fitbit smart device usage patterns.
+
+Dataset: Fitbit Fitness Tracker Data (CC0, Kaggle) — ~2M+ records from 30 users (activity, steps, calories, sleep, intensities).
+
+Tools Used: Python (Pandas, Matplotlib, Seaborn, Jupyter Notebook), PowerPoint for executive storytelling.
+
+Deliverables:
+
+Exploratory data analysis in Jupyter Notebook
+
+Portfolio-ready PowerPoint presentation with visuals & recommendations
+
+# Key Performance Indicators (KPIs)
+
 | **KPI**                          | **Definition**                                     | **Insight from Data**                                    | **Business Implication**                                                          |
 | -------------------------------- | -------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **Average Daily Steps**          | Mean steps per user per day                        | \~7.6k steps/day → **24% below CDC 10k benchmark**       | Opportunity to **promote activity goals** via gamified challenges & streaks       |
